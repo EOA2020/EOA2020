@@ -1,5 +1,5 @@
 ```markdown
-# 👋 ¡Hola! Soy Gastón Paredes
+# 👋 ¡Hola! Soy Sergio Paredes
 
 ## 💻 Desarrollador Full Stack
 
