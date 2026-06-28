@@ -1,9 +1,9 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner Sergio Paredes"/>
 </p>
-<h1 align="center">👋 ¡Hola! Soy Sergio Paredes</h1>
+<h1 align="left">👋 ¡Hola! Soy Sergio Paredes</h1>
 
-<h2 align="center">Desarrollador Full Stack</h2>
+<h2 align="left">Desarrollador Full Stack</h2>
 
 Soy estudiante de la **Licenciatura en Sistemas** y desarrollador Full Stack apasionado por crear aplicaciones que resuelvan problemas reales y contribuyan a mejorar la calidad de vida de las personas.
 
