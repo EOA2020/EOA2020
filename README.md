@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner Sergio Paredes"/>
 </p>
-<h1 align="left">👋 ¡Hola! Soy Sergio Paredes</h1>
+<h1 align="left">¡Hola! Soy Sergio Paredes 👋</h1>
 
 <h2 align="left">💻 Desarrollador Full Stack</h2>
 
