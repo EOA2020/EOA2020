@@ -1,7 +1,7 @@
-```markdown
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner Sergio Paredes"/>
 </p>
+```markdown
 # 👋 ¡Hola! Soy Sergio Paredes
 
 ## 💻 Desarrollador Full Stack
