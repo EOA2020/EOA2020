@@ -105,8 +105,7 @@ Mi objetivo es seguir creciendo como ingeniero de software, especializándome en
 
 # 📫 Contacto
 
-- 💼 LinkedIn: *(Agrega aquí tu perfil)*
-- 📧 Email: *(Agrega aquí tu correo)*
+- 📧 Email: sergioparedes1918@gmail.com
 - 🐙 GitHub: https://github.com/EOA2020
 
 ---
